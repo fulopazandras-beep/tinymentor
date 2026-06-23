@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon" opacity="0.42">
+<path id="Vector" d="M8 69.3333C8 58.7247 12.2143 48.5505 19.7157 41.0491C27.2172 33.5476 37.3913 29.3333 48 29.3333C58.6087 29.3333 68.7828 33.5476 76.2843 41.0491C83.7857 48.5505 88 58.7247 88 69.3333" stroke="var(--stroke-0, #FF6B9D)" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_2" d="M17.3333 69.3333C17.3333 61.2 20.5643 53.3998 26.3154 47.6487C32.0665 41.8976 39.8667 38.6667 48 38.6667C56.1333 38.6667 63.9335 41.8976 69.6846 47.6487C75.4357 53.3998 78.6667 61.2 78.6667 69.3333" stroke="var(--stroke-0, #FF8C42)" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_3" d="M26.6667 69.3333C26.6667 63.6754 28.9143 58.2492 32.9151 54.2484C36.9158 50.2476 42.342 48 48 48C53.658 48 59.0842 50.2476 63.0849 54.2484C67.0857 58.2492 69.3333 63.6754 69.3333 69.3333" stroke="var(--stroke-0, #FFC93C)" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_4" d="M36 69.3333C36 66.1507 37.2643 63.0985 39.5147 60.8481C41.7652 58.5976 44.8174 57.3333 48 57.3333C51.1826 57.3333 54.2348 58.5976 56.4853 60.8481C58.7357 63.0985 60 66.1507 60 69.3333" stroke="var(--stroke-0, #6BCB77)" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_5" d="M93.3333 69.3333H2.66667V85.3333H93.3333V69.3333Z" fill="var(--fill-0, white)"/>
+</g>
+</svg>
