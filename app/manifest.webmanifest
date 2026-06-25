@@ -1,6 +1,6 @@
 {
-  "name": "Tiny Mentor",
-  "short_name": "Tiny Mentor",
+  "name": "Tiny Mentors",
+  "short_name": "Tiny Mentors",
   "description": "Fun learning for little minds.",
   "start_url": "./index.html",
   "scope": "./",
